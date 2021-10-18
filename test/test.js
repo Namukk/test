@@ -1,2 +1,2 @@
 export default () => {};
-/* update할게요 text는 좋은것 굳굳*/
+/* test 두번째 업데이트 입니다. */
